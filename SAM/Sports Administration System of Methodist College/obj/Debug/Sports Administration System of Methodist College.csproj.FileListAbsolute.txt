@@ -1,0 +1,389 @@
+F:\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll.config
+F:\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll
+F:\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.pdb
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe.config
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.rsp
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe.config
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.rsp
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Managed.Core.targets
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.AppContext.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Collections.Immutable.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Console.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Globalization.Calendars.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Http.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Sockets.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Reflection.Metadata.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.ValueTuple.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe.config
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.rsp
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe
+F:\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe.config
+F:\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.AssemblyReference.cache
+F:\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CoreCompileInputs.cache
+F:\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CopyComplete
+F:\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.dll
+F:\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.pdb
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportSource.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Shared.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\SAM\Sports Administration System of Methodist College\bin\stdole.dll
+F:\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Web.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll.config
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.pdb
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe.config
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.rsp
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe.config
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.rsp
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.AppContext.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Collections.Immutable.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Console.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Globalization.Calendars.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Http.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Sockets.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Reflection.Metadata.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.ValueTuple.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe.config
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.rsp
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe.config
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportSource.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Shared.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Web.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\stdole.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MIT Project\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.AssemblyReference.cache
+C:\MIT Project\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CoreCompileInputs.cache
+C:\MIT Project\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CopyComplete
+C:\MIT Project\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.dll
+C:\MIT Project\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.pdb
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll.config
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.pdb
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe.config
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.rsp
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe.config
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.rsp
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Console.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe.config
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.rsp
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Web.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\stdole.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CopyComplete
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.pdb
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\log4net.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\Log4Net.HttpAppender.dll
+C:\Users\USER\Downloads\SAM\Sports Administration System of Methodist College\bin\log4net.xml
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll.config
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.pdb
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe.config
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Console.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Web.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\log4net.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\Log4Net.HttpAppender.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\stdole.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\log4net.xml
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CopyComplete
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.dll
+C:\Users\USER\Documents\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.pdb
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll.config
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\Sports Administration System of Methodist College.pdb
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.exe.config
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\csc.rsp
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.exe.config
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\csi.rsp
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.AppContext.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Collections.Immutable.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Console.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Globalization.Calendars.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Http.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Net.Sockets.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.ValueTuple.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.exe.config
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\vbc.rsp
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\roslyn\VBCSCompiler.exe.config
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportSource.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Shared.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.Web.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\log4net.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\Log4Net.HttpAppender.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\stdole.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\log4net.xml
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.AssemblyReference.cache
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CoreCompileInputs.cache
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.csproj.CopyComplete
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.dll
+F:\Project recent 27-12-2023\SAM\Sports Administration System of Methodist College\obj\Debug\Sports Administration System of Methodist College.pdb

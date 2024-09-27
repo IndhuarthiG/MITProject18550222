@@ -1,0 +1,163 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    color:teal;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.sidebar {
+    position: relative;
+    display: table-cell;
+    width: 300px;
+    height: 8000px;
+    left: 0;
+    background: #ccfccd;
+}
+
+.sidebar .text{
+    color: teal;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 65px;
+    text-align: center;
+    background:#bcfbbe;
+    letter-spacing: 1px;
+}
+
+nav ul {
+    background: #ccfccd;
+    height: 100%;
+    width: 100%;
+    list-style: none;
+}
+
+nav ul li{
+    line-height: 60px;
+    border-bottom: 1px solid #ccfccd;
+    
+}
+
+nav ul li a{
+    position:relative;
+    color: teal;
+    text-decoration: none;
+    font-size:18px;
+    padding-left: 10px;
+    font-weight: 500;
+    display: block;
+    width: 100%;
+    border-left: 3px solid transparent;
+    
+}
+
+nav ul li a i{
+    margin-right: 20px;
+    /*padding-right: 15px;*/
+}
+
+nav ul li a:hover{
+    color: darkorange;
+    background: #ccfccd;
+    margin-left: 1px;
+    border-left-color: teal;
+}
+
+nav ul li.active a {
+    color: teal;
+    background: #ccfccd;
+    border-left-color:teal;
+
+}
+
+nav ul ul{
+    position: static;
+    display: none;
+}
+
+nav ul .mem-show.show {
+    display: block;
+}
+
+nav ul .tea-show.show1 {
+    display: block;
+}
+
+nav ul .spor-show.show2 {
+    display: block;
+}
+
+nav ul .duty-show.show3 {
+     display: block;
+}
+
+nav ul .ros-show.show4 {
+    display: block;
+}
+
+nav ul .part-show.show5 {
+    display: block;
+}
+
+nav ul ul li{
+    line-height: 42px;
+    border-bottom: none;
+}
+
+nav ul ul li a{
+    font-size: 18px;
+    color: teal;
+    padding-left: 20px;
+}
+
+nav ul li.active ul li a{
+     color: teal;
+     background: #ccfccd;
+     border-left-color: transparent;
+}
+
+nav ul ul li a:hover {
+     color: darkorange!important;
+     background: #ccfccd !important;
+}
+
+nav ul li a span{
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    font-size: 22px;
+    transition: transform 0.4s;
+}
+
+nav ul li a:hover span {
+    transform: translateY(-50%) rotate(-180deg);
+}
+
+nav ul li a:hover span.rotate{
+    transform: translateY(-50%) rotate(-180deg);
+}
+
+.main {
+    display: table-cell;
+    width: 1200px;
+    margin-left: 300px;
+    padding: 10px;
+    margin-right: 677px;
+}
+
+.main h2{
+    margin-top: 1px;
+}
+
+.thumbnail {
+    max-width: 100px; /* Adjust the size as needed */
+    cursor: pointer; /* Add a pointer cursor to indicate clickability */
+}
+
+.enlarged {
+    max-width: none; /* Remove max-width to display the image at its original size */
+}
+
+
+
